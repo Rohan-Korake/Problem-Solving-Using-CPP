@@ -84,7 +84,7 @@ int main() {
                         break;
                     case 5:
                         cout << matrix[i][j] << "\t";
-                        break;
+                        break;  
                 }
             }
             cout << "\n";
